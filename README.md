@@ -9,7 +9,7 @@
 ### 📚 About Me
 
 - 👨‍💼 **Profession**: Software Developer
-- 📊 **Focus**: Flutter Development, Full Stack Development, and Data Visualization
+- 📊 **Focus**: Flutter Development.
 - 🌐 **GitHub**: [jigisha-art](https://github.com/jigisha-art)
 - 🌎 **Hobbies**: Coding, Learning new technologies, and creating impactful software solutions
 
