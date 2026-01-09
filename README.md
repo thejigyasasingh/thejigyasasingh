@@ -71,6 +71,17 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=thejigyasasingh&show_icons=true&theme=tokyonight" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thejigyasasingh&show_icons=true&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=thejigyasasingh&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejigyasasingh&theme=tokyo-night" />
+</div>
 
 ---
 
