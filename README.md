@@ -69,7 +69,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thejigyasasingh&theme=onedark&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=thejigyasasingh&theme=onedark&no-frame=true&margin-w=15" />
 </div>
 
 ---
