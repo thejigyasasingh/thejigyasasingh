@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer | Mobile App Engineer | UI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZtbmE0eGd4c3Z3bWJmbnR4dTFhdDU2b3JkY2xqYmZvd29sN3Z6NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" height="180"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
 </p>
 
 <p align="center">
