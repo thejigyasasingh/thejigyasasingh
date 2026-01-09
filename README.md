@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jigisha-art&theme=highcontrast" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=thejigyasasingh&theme=highcontrast" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
