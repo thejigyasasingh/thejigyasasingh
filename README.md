@@ -2,8 +2,9 @@
 <h3 align="center">Flutter Developer | Mobile App Engineer | UI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="900"/>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thejigyasasingh&label=Profile%20Views&color=blueviolet&style=flat-square" />
