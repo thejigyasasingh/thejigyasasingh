@@ -1,73 +1,93 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi 👋, I'm Jigyasa Singh</h1>
+<h3 align="center">Flutter Developer | Mobile App Engineer | UI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" height="150" alt="Welcome" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZtbmE0eGd4c3Z3bWJmbnR4dTFhdDU2b3JkY2xqYmZvd29sN3Z6NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thejigyasasingh&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
 
 ---
 
-### 📚 About Me
+## 🚀 About Me
 
-- 👨‍💼 **Profession**: Software Developer
-- 📊 **Focus**: Flutter Development.
-- 🌐 **GitHub**: [jigyasa](https://github.com/thejigyasasingh)
-- 🌎 **Hobbies**: Coding, Learning new technologies, and creating impactful software solutions
+💡 I’m a **Flutter Developer** passionate about building  
+**beautiful, fast & scalable mobile applications**
+
+- 📱 Cross-platform app development (Android & iOS)
+- 🎯 Strong focus on **UI/UX & performance**
+- 🔥 Firebase, REST APIs & state management
+- 🧠 Always learning & improving my craft
+- 🤝 Open to **jobs, internships & collaborations**
 
 ---
 
-### 👨‍🔧 Tech Stack
+## 🧰 Flutter & Tech Toolbox
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </div>
 
 ---
 
-### 📊 Stats
+## 🏗️ What I Build
+
+- 🚶‍♀️ Step Counter & Fitness Apps
+- 🔐 Firebase Auth & Cloud Firestore Apps
+- 🎨 Custom UI animations in Flutter
+- ⚡ Performance-optimized mobile apps
+
+---
+
+## 📊 GitHub Performance
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejigyasasingh&show_icons=true&theme=react" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejigyasasingh&layout=compact&theme=react" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thejigyasasingh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejigyasasingh&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thejigyasasingh&theme=highcontrast" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=thejigyasasingh&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejigyasasingh&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejigyasasingh&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
 
-### 🌟 Highlighted Stats
+## 🏆 GitHub Achievements
+
 <div align="center">
-  <img src="path/to/your/image.png" alt="Detailed GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thejigyasasingh&theme=onedark&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
 
-### 📢 Connect with Me
+## 🌐 Let’s Connect
+
 <div align="left">
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+  <a href="https://github.com/thejigyasasingh">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </div>
 
 ---
 
-Thank you for stopping by! Feel free to connect or collaborate. Let's build something amazing together! 🌟
+<p align="center">
+  ✨ <i>"Code is my canvas, Flutter is my brush."</i> ✨
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting! If you like my work, consider starring a repo ⭐
+</p>
