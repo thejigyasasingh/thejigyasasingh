@@ -37,8 +37,8 @@
 
 ### 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jigisha-art&show_icons=true&theme=react" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigisha-art&layout=compact&theme=react" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thejigyasasingh&show_icons=true&theme=react" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejigyasasingh&layout=compact&theme=react" alt="Top Languages" height="180em" />
 </div>
 
 <div align="center">
@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jigisha-art&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejigyasasingh&theme=react-dark" alt="Contribution Graph" />
 </div>
 
 ---
