@@ -49,22 +49,7 @@
 
 ---
 
-## 📊 GitHub Performance
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejigyasasingh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejigyasasingh&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thejigyasasingh&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejigyasasingh&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
 
 ## 🏆 GitHub Fallback Badges
 
