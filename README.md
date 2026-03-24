@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jigyasa Singh</h1>
-<h3 align="center">Flutter Developer | Mobile App Engineer | Healthcare Tech Specialist</h3>
+<h3 align="center">Flutter Developer | Mobile App Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thejigyasasingh&label=Profile%20Views&color=0E8BFF&style=for-the-badge" alt="Profile Views"/>
@@ -31,10 +31,10 @@ Currently expanding my skillset with **Java Spring Boot** to become a stronger f
 BLoC • Provider • Riverpod • GetX
 
 **Backend & Services**  
-RESTful APIs • Firebase (FCM, Cloud Storage) • PHP • Laravel (MVC)
+RESTful APIs • Firebase (FCM, Cloud Storage) • Java Spring Boot
 
 **Native & Others**  
-Android (Java & Kotlin) • Swift (Basics) • Java Spring Boot (Learning)
+Android (Java & Kotlin) • Swift (Basics) • Java Spring Boot
 
 **Tools**  
 Git • Android Studio • VS Code • Google Play Console • App Store Connect
@@ -48,7 +48,7 @@ Git • Android Studio • VS Code • Google Play Console • App Store Connect
 - Secure apps with Firebase integration and REST API connectivity  
 - Custom widgets, animations, and optimized local storage solutions  
 
-**Published Apps** → 2 live on Play Store & App Store
+**Published Apps** → 3 live on Play Store & App Store
 
 ---
 
