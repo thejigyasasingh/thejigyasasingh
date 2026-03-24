@@ -23,7 +23,7 @@
 - 🎯 Strong focus on **UI/UX & performance**
 - 🔥 Firebase, REST APIs & state management
 - 🧠 Always learning & improving my craft
-- 🤝 Open to **jobs, internships & collaborations**
+- 🤝 Open to **jobs  & collaborations**
 
 ---
 
