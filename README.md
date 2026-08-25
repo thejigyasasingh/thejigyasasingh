@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-**Results-driven Flutter Developer** with **3+ years** of experience building and shipping high-quality, cross-platform mobile apps for Android & iOS.  
+**Results-driven fullstack developer** with **3+ years** of experience building and shipping high-quality.  
 
 I specialize in creating **beautiful, performant, and scalable applications** — especially in the **healthcare domain**.  
 
