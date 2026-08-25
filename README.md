@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jigyasa Singh</h1>
-<h3 align="center">Flutter Developer | Mobile App Engineer </h3>
+<h3 align="center"> Software Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thejigyasasingh&label=Profile%20Views&color=0E8BFF&style=for-the-badge" alt="Profile Views"/>
